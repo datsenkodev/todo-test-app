@@ -85,7 +85,6 @@ export const Main = () => {
                 handleDelete={handleDelete}
               />
             ) : null}
-            {doneTodos && doneTodos.length ? <DoneTasks todos={doneTodos} /> : null}
           </>
         )}
         {doneTodos && doneTodos.length ? <DoneTodos todos={doneTodos} /> : null}

@@ -21,7 +21,7 @@ export const metadata = {
     type: 'website',
     locale: 'en-EN',
     siteName: 'DatsenkoDev',
-    // url: 'https://vercel.../',
+    url: 'https://todo-test-app-lovat.vercel.app/',
   },
 };
 
